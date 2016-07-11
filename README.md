@@ -1,4 +1,4 @@
-# cke_editor-bootstrap-spoiler-plugin
+# CKEDITOR bootstrap spoiler plugin
 
 Register new plugin in your CKEDITOR.
 
